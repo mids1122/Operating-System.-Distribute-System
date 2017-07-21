@@ -1,2 +1,2 @@
-# Operating-System.-Distribute-System
+# Operating-System\Distribute-System
 SELF LEARN BLOG
